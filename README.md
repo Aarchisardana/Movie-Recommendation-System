@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Real Time Movie-Recommendation-System
 Overview
 The Professional Movie Recommendation System is a web application built with Streamlit that provides personalized movie recommendations. By integrating with the TMDB API, it offers genre-based suggestions and tracks user search history to refine recommendations over time.
 
